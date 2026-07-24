@@ -1,8 +1,30 @@
 aid: chimelabs-holdings-pty-ltd
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/chimelabs-holdings-pty-ltd.png
 name: Chimelabs Holdings PTY LTD
-description: Chimelabs Holdings PTY LTD is a company surfaced as a portfolio company of 500-global and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Chime Labs (Chimelabs Holdings PTY LTD) builds an AI voice receptionist and
+  call-automation platform purpose-built for Australian trades and service
+  businesses — plumbers, electricians, HVAC, locksmiths, pest control, cleaners
+  and other on-the-tools operators. The AI answers missed inbound calls 24/7,
+  qualifies and captures job details in natural Australian English, books work
+  into scheduling and field-service systems (ServiceM8, Simpro, ServiceTitan,
+  AroFlo, Fergus, Acuity Scheduling and Google Calendar), runs outbound calls,
+  and turns quote calls into sent quotes automatically. Founded in 2025 in
+  Sydney, Australia by Alexis Griveau (CEO) and Mathew Pretel and backed by 500
+  Global. The company operates a customer-facing SaaS product at
+  platform.chimelabs.ai; it does not currently publish a public developer API,
+  SDK, or OpenAPI surface.
 url: https://raw.githubusercontent.com/api-evangelist/chimelabs-holdings-pty-ltd/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,9 +34,20 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Artificial Intelligence
+- Voice
+- Receptionist
+- Telephony
+- Scheduling
+- Field Service
+- Trades
+- Australia
+- Automation
+- Lead Generation
+- CRM
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +57,26 @@ maintainers:
 common:
 - type: Website
   url: https://chimelabs.ai
+- type: Blog
+  url: https://chimelabs.ai/blog
+- type: Pricing
+  url: https://chimelabs.ai/pricing
+- type: SignUp
+  url: https://platform.chimelabs.ai/get-started
+- type: Login
+  url: https://platform.chimelabs.ai/
+- type: Support
+  url: mailto:hello@chimelabs.ai
+- type: TermsOfService
+  url: https://chimelabs.ai/terms
+- type: PrivacyPolicy
+  url: https://chimelabs.ai/privacy-policy
+- type: LLMsTxt
+  url: llms/chimelabs-holdings-pty-ltd-llms.txt
+- type: DomainSecurity
+  url: security/chimelabs-holdings-pty-ltd-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,53 @@
+# Chime Labs
+
+> AI receptionist and voice automation for Australian trades businesses — answer every call, book jobs, and send quotes before you leave the site.
+
+Chime Labs builds an AI-powered phone receptionist purpose-built for plumbers, electricians, HVAC, locksmiths, pest control, cleaners and other service trades. It answers missed calls 24/7, captures job details, books work into ServiceM8 / Simpro / ServiceTitan / AroFlo / Fergus / Acuity / Google Calendar, and turns quote calls into sent quotes automatically.
+
+Founded in 2025 in Sydney, Australia by Alexis Griveau (CEO) and Mathew Pretel — both ex-Google. Backed by 500 Global. Built for Australian English and the local addresses tradies book to. A longer machine-readable digest is available at /llms-full.txt.
+
+## Pages
+
+- [Home](/): Overview of Chime Labs' AI receptionist for Australian trades.
+- [AI Receptionist](/ai-receptionist): How the 24/7 AI receptionist answers and books jobs.
+- [AI Receptionist Australia](/ai-receptionist-australia): Australian-specific AI receptionist details.
+- [Job Management](/job-management): Automated job creation and dispatch for trades.
+- [Quotes](/quotes): Automated quote pipeline — turn every quote call into a sent quote.
+- [Call Intelligence](/call-intelligence): Call summaries, transcripts and lead insights.
+- [Contacts & CRM](/contacts-crm): Contact capture and CRM sync.
+- [Outbound Calls](/outbound-calls): AI-powered outbound calling for trades.
+- [Generate Leads](/generate-leads): Lead generation workflows.
+- [Product](/product): Full product overview and playbooks library.
+- [Pricing](/pricing): Plans for sole traders and teams.
+- [Case Studies](/case-studies): Customer results and stories.
+- [About](/about): About Chime Labs.
+- [Press](/press): Press and media.
+- [Blog](/blog): Articles on AI, trades operations, and quoting.
+- [Book a Meeting](/meet): Book a demo or intro call.
+
+## Integrations
+
+- [ServiceM8](/integrations/servicem8): ServiceM8 integration depth.
+- [Simpro](/integrations/simpro): Simpro integration.
+- [ServiceTitan](/integrations/servicetitan): ServiceTitan integration.
+- [AroFlo](/integrations/aroflo): AroFlo integration.
+- [Fergus](/integrations/fergus): Fergus integration.
+- [Acuity Scheduling](/integrations/acuity-scheduling): Acuity Scheduling integration.
+- [Google Calendar](/integrations/google-calendar): Google Calendar integration.
+
+## Blog
+
+- [The Quote Is the Most Under-Managed Number in Australian Trades](/blog/quote-most-under-managed-number-australian-trades): Why quote-to-job win rate is the metric trades businesses ignore.
+- [Garage Door Answering Service](/blog/garage-door-answering-service): 24/7 AI call handling for garage door repair businesses.
+- [Smart Scheduling — Stop Driving In Circles](/blog/smart-scheduling-jobs-feature): Auto-reorder your tradie day to fit one more job.
+- [AI Receptionist for Plumbers](/blog/ai-receptionist-for-plumbers): Turn missed calls into booked jobs.
+- [AI Receptionist for Electricians](/blog/ai-receptionist-for-electricians): Book more jobs while on the tools.
+- [HVAC AI Receptionist](/blog/hvac-ai-receptionist): Answer more calls, book more HVAC jobs.
+- [Locksmith AI Receptionist](/blog/locksmith-answering-service): 24/7 call handling for locksmiths.
+- [Pest Control Answering Service](/blog/pest-control-answering-service): Never miss an urgent pest control call.
+- [Cleaning Business Answering Service](/blog/cleaning-service-ai-booking-support): AI answering for cleaning businesses.
+
+## Optional
+
+- [Privacy Policy](/privacy-policy): Privacy policy.
+- [Plumbers Co-op](/plumbers-coop): Plumbers Co-op partnership page.

@@ -1,0 +1,98 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://chimelabs.ai/pricing
+sources:
+- https://chimelabs.ai/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: tiered-subscription
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: AUD prices excluding GST; monthly billing, no lock-in. Enterprise and 200+ Coach tier are quote-based.
+plan_count: 12
+currency: AUD
+plans:
+- name: Free
+  price_text: $0
+  price: 0
+  currency: AUD
+  period: month
+  included_quota: 'Test calls from app, built-in diary, CRM, Xero/QuickBooks, Chime Quotes: 5 quotes and
+    60 credits a week'
+- name: Essential
+  price_text: $99
+  price: 99
+  currency: AUD
+  period: month
+  included_quota: 100 minutes a month included
+  overage: then $0.25 a minute
+- name: Pro
+  price_text: $399
+  price: 399
+  currency: AUD
+  period: month
+  included_quota: Everything in Essential, with uncapped minutes; SMS package included
+- name: Enterprise
+  price_text: Talk to us
+  period: none
+  included_quota: Multiple numbers, contracted minutes
+- name: Essential SMS package
+  price_text: $50/month
+  price: 50
+  currency: AUD
+  period: month
+  included_quota: SMS package add-on for Essential
+- name: Guided onboarding call (Free plan)
+  price_text: $300 optional
+  price: 300
+  currency: AUD
+  period: one-time
+  included_quota: Guided onboarding call
+- name: Chime Coach — Up to 5 people
+  price_text: $290
+  price: 290
+  currency: AUD
+  period: month
+  unit: per team
+  included_quota: Up to 5 people
+- name: Chime Coach — Up to 10 people
+  price_text: $490
+  price: 490
+  currency: AUD
+  period: month
+  unit: per team
+  included_quota: Up to 10 people
+- name: Chime Coach — Up to 25 people
+  price_text: $890
+  price: 890
+  currency: AUD
+  period: month
+  unit: per team
+  included_quota: Up to 25 people
+- name: Chime Coach — Up to 75 people
+  price_text: $1,990
+  price: 1990
+  currency: AUD
+  period: month
+  unit: per team
+  included_quota: Up to 75 people
+- name: Chime Coach — Up to 200 people
+  price_text: $4,290
+  price: 4290
+  currency: AUD
+  period: month
+  unit: per team
+  included_quota: Up to 200 people
+- name: Chime Coach — 200+ people
+  price_text: Let's talk
+  period: none
+rate_limit_statements:
+- 'Chime Quotes: 5 quotes and 60 credits a week'
+- 100 minutes a month included, then $0.25 a minute
